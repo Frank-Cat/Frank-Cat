@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frank-Cat
 - 👀 I’m a graduate student in TCNJ's MPP Program
-- 🌱 I’m currently learning Bail Reform in the Northeast States, more specifically the impact on Jail Populations & Pretrial Outcomes
+- 🌱 I’m currently learning Bail Reform 
 - 💞️ I’m looking to collaborate on criminology database
 - 📫 How to reach me Rshiny
 - 😄 Pronouns: he/him
